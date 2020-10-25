@@ -1,0 +1,1 @@
+The details of the clients are name:  ClientName , ClientAge years old , gender : ClientGender , residing at ClientAddress, additional details : ClientInfo
